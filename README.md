@@ -4,7 +4,7 @@ This is sample project for learning Git.
 
 ## Features
 
-_ Version control with Git
+* Version control with Git
 
 
 
