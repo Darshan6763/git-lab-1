@@ -1,4 +1,4 @@
-My First Git 
+My First Git Project
 
 
-echo "This is a sample project for learning Git."
+
